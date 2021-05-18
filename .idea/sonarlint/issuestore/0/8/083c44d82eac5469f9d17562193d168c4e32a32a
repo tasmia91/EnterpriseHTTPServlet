@@ -1,0 +1,19 @@
+
+n Web:TableHeaderHasIdOrScopeCheck
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(­Ëø8ÜŠ¾ë…/
+SWeb:BoldAndItalicTagsCheck"!Replace this <b> tag by <strong>.(è–‹¢úÿÿÿÿ8ÜŠ¾ë…/
+OWeb:TableWithoutCaptionCheck" Add a description to this table.(Ò—Äâ8®¼¤Ğ€/
+SWeb:BoldAndItalicTagsCheck"!Replace this <b> tag by <strong>.(•ãàøÿÿÿÿ8ÜŠ¾ë…/
+n Web:TableHeaderHasIdOrScopeCheck	";Add either an 'id' or a 'scope' attribute to this <th> tag.(åå¬¡8ÜŠ¾ë…/
+E	Web:S1827")Remove this deprecated "align" attribute.(Ò—Äâ8®¼¤Ğ€/
+m Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(İŞ›88ÜŠ¾ë…/
+MWeb:BoldAndItalicTagsCheck"!Replace this <b> tag by <strong>.(İŞ›88ÜŠ¾ë…/
+NWeb:BoldAndItalicTagsCheck
+"!Replace this <b> tag by <strong>.(­Ëø8ÜŠ¾ë…/
+NWeb:BoldAndItalicTagsCheck"!Replace this <b> tag by <strong>.(ÂÈê»8ÜŠ¾ë…/
+s Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(•ãàøÿÿÿÿ8ÜŠ¾ë…/
+s Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(è–‹¢úÿÿÿÿ8ÜŠ¾ë…/
+E	Web:S1827")Remove this deprecated "width" attribute.(Ò—Äâ8”şÈë…/
+n Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(ÂÈê»8ÜŠ¾ë…/
+NWeb:BoldAndItalicTagsCheck	"!Replace this <b> tag by <strong>.(åå¬¡8ÜŠ¾ë…/
+G	Web:S1827"+Remove this deprecated "bgcolor" attribute.(Å¼Á½8®¼¤Ğ€/
